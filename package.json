@@ -2,7 +2,7 @@
   "name": "food-recipes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shilpapatwary.github.io/food-recipes/",
+  "homepage": "https://shilpapatwary.github.io/food-recipes",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.22",
     "@fortawesome/free-brands-svg-icons": "^5.10.2",
