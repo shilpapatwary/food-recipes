@@ -1,0 +1,2 @@
+(window["webpackJsonpfood-recipes"]=window["webpackJsonpfood-recipes"]||[]).push([[5],{211:function(e,n,t){"use strict";t.r(n);var a=t(0),o=t.n(a),r=t(58);n.default=function(){return o.a.createElement(r.a,{content:o.a.createElement("span",{className:"page-error text-mega flex justify-center"},"Page Not Found")})}}}]);
+//# sourceMappingURL=5.039d243f.chunk.js.map
